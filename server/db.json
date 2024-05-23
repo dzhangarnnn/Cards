@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1716112888008",
+      "name": "Дмитрий",
+      "surname": "Михайлов",
+      "middlename": "Денисович",
+      "avatar": "https://randomfox.ca/images/66.jpg",
+      "about": "Архитектор",
+      "date": 1716112888008,
+      "email": "dmitrii_mikhailov@gmail.com"
+    },
+    {
+      "id": "1716112888010",
+      "name": "Сергей",
+      "surname": "Сидоров",
+      "middlename": "Ибрагимович",
+      "avatar": "https://randomfox.ca/images/86.jpg",
+      "about": "Агроном",
+      "date": 1716112888009,
+      "email": "sergei_sidorov@gmail.com"
+    },
+    {
+      "id": "1716112888011",
+      "name": "Алексей",
+      "surname": "Смирнов",
+      "middlename": "Витальевич",
+      "avatar": "https://randomfox.ca/images/98.jpg",
+      "about": "Маркшейдер",
+      "date": 1716112888009,
+      "email": "aleksei_smirnov@gmail.com"
+    },
+    {
+      "id": "1716112888012",
+      "name": "Владимир",
+      "surname": "Петров",
+      "middlename": "Валериевич",
+      "avatar": "https://randomfox.ca/images/64.jpg",
+      "about": "Ученый",
+      "date": 1716112888009,
+      "email": "vladimir_petrov@gmail.com"
+    },
+    {
+      "id": "1716112888013",
+      "name": "Станислав",
+      "surname": "Чернышев",
+      "middlename": "Вольфович",
+      "avatar": "https://randomfox.ca/images/110.jpg",
+      "about": "Инженер",
+      "date": 1716112888009,
+      "email": "stanislav_chernishev@gmail.com"
+    },
+    {
+      "id": "1716112888014",
+      "name": "Андрей",
+      "surname": "Салтыков",
+      "middlename": "Адамович",
+      "avatar": "https://randomfox.ca/images/28.jpg",
+      "about": "Доктор",
+      "date": 1716112888009,
+      "email": "andrei_saltikov@gmail.com"
+    },
+    {
+      "id": "1716112888015",
+      "name": "Эдуард",
+      "surname": "Вавилов",
+      "middlename": "Олегович",
+      "avatar": "https://randomfox.ca/images/119.jpg",
+      "about": "Программист",
+      "date": 1716112888009,
+      "email": "eduard_vavilov@gmail.com"
+    },
+    {
+      "id": "1716112888016",
+      "name": "Антон",
+      "surname": "Соколов",
+      "middlename": "Игоревич",
+      "avatar": "https://randomfox.ca/images/61.jpg",
+      "about": "Бухгалтер",
+      "date": 1716112888009,
+      "email": "anton_sokolov@gmail.com"
+    },
+    {
+      "id": "1716112888017",
+      "name": "Илья",
+      "surname": "Иванов",
+      "middlename": "Устинович",
+      "avatar": "https://randomfox.ca/images/14.jpg",
+      "about": "Геолог",
+      "date": 1716112888009,
+      "email": "ilya_ivanov@gmail.com"
+    }
+  ]
+}

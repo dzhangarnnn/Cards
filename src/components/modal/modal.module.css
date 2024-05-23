@@ -1,0 +1,18 @@
+.modal {
+  @apply h-screen w-screen bg-black-rgba fixed  right-0
+   flex items-center justify-center opacity-0 
+  pointer-events-none duration-500 top-0 left-0;
+}
+
+.modal.active {
+  @apply opacity-100 pointer-events-auto;
+}
+
+.modal_content {
+  @apply p-5 rounded-xl bg-white  scale-50 transition-all
+   duration-300 md:w-half-screen xs:w-0.75-screen xl:w-0.33-screen mx-auto;
+}
+
+.modal_content.active {
+  @apply scale-100;
+}
